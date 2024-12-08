@@ -121,4 +121,14 @@ Programlama Dili Öğreniminde Öğrenme Aşamalarının Akış Şemasında Gös
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/D16.png)
 
+---
+
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/D17.png)
+
+---
+
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/D18.png)
+
+---
