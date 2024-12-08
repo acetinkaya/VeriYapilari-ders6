@@ -41,10 +41,13 @@ Süreçleri optimize ederek zaman ve kaynak tasarrufu sağlar.
 
 6.4. Akış Diyagramı Oluşturma Adımları  
 
-For Döngü Yapısının Akış Şemasında Gösterimi->   
-https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-10.png
+if Koşul Yapısının Akış Şemasında Gösterimi->     
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-9.png)
 
-Programlama Dili Öğreniminde Öğrenme Aşamalarının Akış Şemasında Gösterimi->   
+For Döngü Yapısının Akış Şemasında Gösterimi->     
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-10.png)
+
+Programlama Dili Öğreniminde Öğrenme Aşamalarının Akış Şemasında Gösterimi->     
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.jpg)
 
 ---
