@@ -20,16 +20,16 @@ Bu ders içerisinde;
 
 6.1. Akış Diyagramı Nedir?
 
-Akış diyagramı, bir algoritma veya sürecin adım adım görsel olarak ifade edilmesidir. Oval bloklar başlangıç ve sonu, dikdörtgenler işlemleri, paralelkenarlar girdileri ve çıktıları, elmas şekilleri ise kararları temsil eder.
+Akış diyagramı, bir algoritma veya sürecin adım adım görsel olarak ifade edilmesidir. Akış şemaları; başla ve bitir, geometrik çizimler ve oklardan oluşmaktadır.
 
 ---
 
 6.2. Akış Diyagramlarının Faydaları
 
-Süreçlerin daha iyi anlaşılmasını sağlar.
-Hataların erken tespit edilmesine yardımcı olur.
-Ekip içinde iletişimi ve iş birliğini kolaylaştırır.
-Süreçleri optimize ederek zaman ve kaynak tasarrufu sağlar.
+1. Süreçlerin daha iyi anlaşılmasını sağlar.  
+2. Hataların erken tespit edilmesine yardımcı olur.  
+3. Ekip içinde iletişimi ve iş birliğini kolaylaştırır.  
+4. Süreçleri optimize ederek zaman ve kaynak tasarrufu sağlar.  
 
 ---
 
