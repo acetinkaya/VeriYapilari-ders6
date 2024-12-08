@@ -55,11 +55,23 @@ Programlama Dili Öğreniminde Öğrenme Aşamalarının Akış Şemasında Gös
 6.5.1. Draw.io    
 6.5.2. Diagrams.net  
 6.5.3. Microsoft Visio  
-6.5.4. Lucidchart    
+6.5.4. Lucidchart 
 
 ---
 
 ## Draw.io ve Diagrams.net kullanılarak Akış Şeması Oluşturulması
+
+## Örnek Çizimler - 1
+
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders5/blob/main/Ders5-Akis-Semasi.png)
+
+## Örnek Çizimler - 2
+
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/D18.png)
+
+---
+
+## Draw.io ve Diagrams.net Genel Kullanımı
 
 ![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/D1.png)
 
