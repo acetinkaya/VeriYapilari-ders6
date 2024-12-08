@@ -57,4 +57,4 @@ Programlama Dili Öğreniminde Öğrenme Aşamalarının Akış Şemasında Gös
 6.5.3. Microsoft Visio  
 6.5.4. Lucidchart    
 
-![alternatif metin]https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/D1.png)
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/D1.png)
