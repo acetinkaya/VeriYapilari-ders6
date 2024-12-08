@@ -6,12 +6,12 @@
 
 Bu ders içerisinde;
 
-Akış Diyagramı Nedir?
-Akış diyagramlarının faydaları
-Akış Diyagramında Kullanılan Çizimler
-Akış Diyagramı Oluşturma Adımları
-Akış Diyagramı Çizim Araçları
-    Draw.io
-    Microsoft Visio
-    Diagrams.net
-    Lucidchart
+6.1. Akış Diyagramı Nedir?
+6.2. Akış diyagramlarının faydaları
+6.3. Akış Diyagramında Kullanılan Çizimler
+6.4. Akış Diyagramı Oluşturma Adımları
+6.5. Akış Diyagramı Çizim Araçları
+6.5.1. Draw.io
+6.5.2. Microsoft Visio
+6.5.3. Diagrams.net
+6.5.4. Lucidchart
