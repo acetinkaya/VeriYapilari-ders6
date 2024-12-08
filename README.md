@@ -35,4 +35,4 @@ Süreçleri optimize ederek zaman ve kaynak tasarrufu sağlar.
 
 6.3. Akış Diyagramında Kullanılan Çizimler
 
-[!Alternatifmetin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriYap%C4%B1lar%C4%B1veAlg%C4%B1ritmalarAk%C4%B1sSemas%C4%B1.jpg)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriYap%C4%B1lar%C4%B1veAlg%C4%B1ritmalarAk%C4%B1sSemas%C4%B1.jpg)
