@@ -11,10 +11,10 @@ Bu ders içerisinde;
 6.3. Akış Diyagramında Kullanılan Çizimler  
 6.4. Akış Diyagramı Oluşturma Adımları  
 6.5. Akış Diyagramı Çizim Araçları  
-6.5.1. Draw.io  
-6.5.2. Diagrams.net
-6.5.3. Microsoft Visio
-6.5.4. Lucidchart  
+6.5.1. Draw.io    
+6.5.2. Diagrams.net  
+6.5.3. Microsoft Visio  
+6.5.4. Lucidchart    
 
 ---
 
@@ -52,8 +52,8 @@ Programlama Dili Öğreniminde Öğrenme Aşamalarının Akış Şemasında Gös
 
 ---
 6.5. Akış Diyagramı Çizim Araçları  
-6.5.1. Draw.io  
-6.5.2. Diagrams.net
-6.5.3. Microsoft Visio
-6.5.4. Lucidchart  
+6.5.1. Draw.io    
+6.5.2. Diagrams.net  
+6.5.3. Microsoft Visio  
+6.5.4. Lucidchart    
 
