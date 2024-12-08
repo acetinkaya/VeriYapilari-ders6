@@ -36,3 +36,15 @@ Süreçleri optimize ederek zaman ve kaynak tasarrufu sağlar.
 6.3. Akış Diyagramında Kullanılan Çizimler
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriYap%C4%B1lar%C4%B1veAlg%C4%B1ritmalarAk%C4%B1sSemas%C4%B1.jpg)
+
+---
+
+6.4. Akış Diyagramı Oluşturma Adımları  
+
+
+---
+6.5. Akış Diyagramı Çizim Araçları  
+6.5.1. Draw.io  
+6.5.2. Microsoft Visio  
+6.5.3. Diagrams.net  
+6.5.4. Lucidchart  
