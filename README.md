@@ -42,6 +42,9 @@ Süreçleri optimize ederek zaman ve kaynak tasarrufu sağlar.
 6.4. Akış Diyagramı Oluşturma Adımları  
 
 
+Programlama Dili Öğreniminde Öğrenme Aşamaları->   
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.jpg)
+
 ---
 6.5. Akış Diyagramı Çizim Araçları  
 6.5.1. Draw.io  
