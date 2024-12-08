@@ -1,1 +1,1 @@
-# VeriYapilari-ders6
+## Python - Veri Yapıları ve Algoritmalar
