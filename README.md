@@ -15,7 +15,7 @@ Bu ders içerisinde;
 6.5.2. Diagrams.net    
 6.5.3. Microsoft Visio    
 6.5.4. Lucidchart  
-6.6. Akış Diyagramı Çizim Uygulaması
+6.6. Akış Diyagramı Çizim Uygulamasının Gerçekleştirilmesi
 
 ---
 
