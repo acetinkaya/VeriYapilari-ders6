@@ -65,6 +65,24 @@ Programlama Dili Öğreniminde Öğrenme Aşamalarının Akış Şemasında Gös
 
 ![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders5/blob/main/Ders5-Akis-Semasi.png)
 
+1. Başla
+
+2. Problem Tanımlaması
+
+3. Girdi, Çıktı ve Amacı Belirle
+
+4. Algoritma Tasarımı :-> Adım adım çözüm sürecini tasarlamak. Burada kullanılan yöntemler: Pseudocode ve Akış Diyagramları'dır.
+
+5. Programlama Dilinin Seçimi
+
+6. Algoritmayı Kodlamak
+
+7. Algoritma Analizi: Algoritmanın zaman ve alan karmaşıklığını analiz edin.
+
+8. Test ve Düzeltme: Algoritmanın çeşitli test senaryolarında doğruluğunu test etmek ve gerekirse düzeltmeler yapmak.
+
+9. Bitir
+
 ## Örnek Çizimler - 2
 
 ![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/D18.png)
