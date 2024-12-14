@@ -6,7 +6,7 @@
 
 Bu ders içerisinde;
 
-6.1. Akış Diyagramı Nedir?    
+6.1. Akış Diyagramı / Şeması Nedir?    
 6.2. Akış Diyagramlarının Faydaları    
 6.3. Akış Diyagramında Kullanılan Çizimler    
 6.4. Akış Diyagramı Oluşturma Adımları    
