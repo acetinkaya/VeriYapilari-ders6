@@ -43,7 +43,7 @@ Akış diyagramı, bir algoritma veya sürecin adım adım görsel olarak ifade 
 6.4. Akış Diyagramı Oluşturma Adımları  
 
 if Koşul Yapısının Akış Şemasında Gösterimi->     
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-9.png)
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/Programlama-9.png)
 
 For Döngü Yapısının Akış Şemasında Gösterimi->     
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-10.png)
