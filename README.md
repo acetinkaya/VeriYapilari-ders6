@@ -36,7 +36,7 @@ Akış diyagramı, bir algoritma veya sürecin adım adım görsel olarak ifade 
 
 6.3. Akış Diyagramında Kullanılan Çizimler
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriYap%C4%B1lar%C4%B1veAlg%C4%B1ritmalarAk%C4%B1sSemas%C4%B1.jpg)
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders6/blob/main/Akissemasisembolleri.png)
 
 ---
 
